@@ -1,0 +1,10 @@
+.link-style {
+  color: black;
+  text-decoration: none;
+  transition: color 0.1s ease ;
+}
+
+.link-style:hover {
+  color: rgb(240, 177, 0);
+ 
+}
